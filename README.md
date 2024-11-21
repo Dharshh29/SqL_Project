@@ -1,1 +1,2 @@
-# SqL_Project
+# Employment System in Sql
+An employment system in SQL is a database management system designed to handle and manage various aspects of employment-related data. This type of system typically involves the storage, retrieval, and manipulation of information related to employees, job positions, departments, payroll, and other human resources functions. Below is a comprehensive description of what an employment system might encompass, including its components, tables, relationships, and potential queries
